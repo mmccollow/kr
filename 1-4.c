@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/* print Celsius-Fahrenheit table
-		for celsius = 0, 20, ..., 300; floating-point version */
+/**
+ * 1-4: Write a program to print the corresponding Celsius to Fahrenheit table
+ **/
 int main() {
 	float fahr, celsius;
 	int lower, upper, step;
